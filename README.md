@@ -1,5 +1,5 @@
-#### Start with
-NPM Install
+Start with
+`NPM Install`
 
-#### Run With
-NPM Run Dev (For Development Purposed)
+Run With (For Development Purposed)
+`NPM Run Dev`
