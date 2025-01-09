@@ -1,5 +1,5 @@
 Start with  
 `NPM Install`
   
-Run With (For Development Purposed)  
+Run with (for development purposed)  
 `NPM Run Dev`
